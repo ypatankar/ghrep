@@ -1,3 +1,3 @@
 # ghrep
 
-manually editing. This file was modified locally.
+This line was modified manually during conflict resolution
